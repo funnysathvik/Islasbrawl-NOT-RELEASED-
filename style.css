@@ -1,0 +1,54 @@
+.Sigmar {
+    font-family: "Sigmar One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+#Credits {
+  float: right;
+  align-self: auto;
+  font-size: 25px;
+}
+
+#headingd{
+  background-color: rgba(216, 197, 52, 0.856);
+  align-items: baseline;
+  width: 100%;
+}
+
+body{
+  background-color: black;
+}
+
+.Sigmar1{
+  color: white;
+  font-family: "Sigmar One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.Changa{
+  color: white;
+  font-family: "Changa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+img{
+  border-radius: 10px;
+  height: 300;
+  width: 500;
+}
+
+video{
+  border-radius: 10px;
+}
+
+.footer{
+  position: fixed;
+  bottom: 0;
+  margin-bottom: 0;
+  background-color: rgba(216, 199, 68, 0.663);
+  width: 100%;
+}
